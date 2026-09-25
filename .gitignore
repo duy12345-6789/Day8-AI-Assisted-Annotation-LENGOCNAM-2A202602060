@@ -5,6 +5,7 @@ __pycache__/
 runs/
 *.pt
 *.onnx
+*.zip
 day8_data.zip
 day8_round*_out.zip
 to_label/

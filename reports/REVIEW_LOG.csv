@@ -1,0 +1,6 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,hai xe ở giữa ảnh,added,Thấy rõ phần đầu và thân xe nhưng nhãn AI ban đầu bỏ sót
+1,frame_0107.jpg,các xe nhỏ ở xa góc trái,added,Vẫn nhận diện được thân xe dù ở xa hoặc bị che một phần nhưng nhãn AI bỏ sót
+1,frame_0107.jpg,các box xe có tỷ lệ hoặc kích thước sai,edited,Chỉnh box ôm sát phần thân xe nhìn thấy và không tính vùng phản chiếu
+1,frame_0182.jpg,xe bị cắt ở mép ảnh,added,Xe bị cắt vẫn được gán nhãn cho phần nằm trong ảnh
+1,frame_0182.jpg,các xe ở xa hai phía trái và phải,added,Vẫn nhìn thấy thân xe nhưng nhãn AI ban đầu bỏ sót

@@ -1,0 +1,2 @@
+# Preserve the release hashes of immutable test labels on every platform.
+data/test/labels/*.txt text eol=lf
